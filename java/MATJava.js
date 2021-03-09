@@ -98,6 +98,10 @@ x = document.getElementsByName('a10');
 	alert(msg);
 
 }
+
+function checkWorkB(){
+	alert("Honey says: To be completed.");
+}
 function Ex1(){
 	var msg;
 	msg = "Gregarious means \" living in groups \"\nLocusts live in groups.\nOf the animals listed only the spider is solitary.";
