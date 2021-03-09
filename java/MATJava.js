@@ -1,5 +1,4 @@
 function checkWorkA(){
-	alert("kitty");
 	var score=0;
 	var wrong = '';
 	var correct=0;
